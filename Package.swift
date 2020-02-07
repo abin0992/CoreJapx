@@ -5,8 +5,8 @@ import PackageDescription
 
 let package = Package(
     name: "CoreJapx",
-    platforms: [.iOS(.v10),
-                .tvOS(.v10)],
+//    platforms: [.iOS(.v10),
+//                .tvOS(.v10)],
     products: [
         .library(
             name: "CoreJapx",
